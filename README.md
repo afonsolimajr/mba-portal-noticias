@@ -1,8 +1,10 @@
 # [MBA] Fundamentos do Desenvolvimento Web
 
-## Projeot Portal de Noticias
+## Projeto Portal de Noticias
 
 mba-portal-noticias
+
+https://afonsolimajr.github.io/mba-portal-noticias/
 
 Página web com objetivo de aplicar os conhecimentos adquiridos nas aulas de fundamentos do desenvolvimento web.
 
